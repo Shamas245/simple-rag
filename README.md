@@ -44,7 +44,11 @@ s `.env` for securely storing sensitive API keys.
 
 ## Installation and Setup
 
-1. Clone the repository:
+1. **Clone the repository:**
+   Replace `<repository_url>` with the actual URL of your GitHub repository, and `<repository_name>` with your repository name.
+
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/Shamas245/simple-rag.git
+   cd simple-rag
+
+
